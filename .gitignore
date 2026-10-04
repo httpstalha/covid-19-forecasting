@@ -10,5 +10,4 @@ venv/
 data/raw/*.csv
 data/processed/*.csv
 models/*.joblib
-outputs/figures/*.png
-outputs/predictions/*.csv
+
